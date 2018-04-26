@@ -1,0 +1,29 @@
+{
+    "name": "yiiplus/yii2-fis-smarty",
+    "description": "基于Yii2的前端工程构建工具Fis3Smarty扩展",
+    "keywords": ["yii2", "extension", "smarty", "renderer", "fis3"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/yiiplus/yii2-fis-smarty/issues",
+        "source": "https://github.com/yiiplus/yii2-fis-smarty"
+    },
+    "authors": [
+        {
+            "name": "Hongbin Chen",
+            "email": "87003637@qq.com"
+        },
+        {
+            "name": "xiankun Geng",
+            "email": "ge2x3k2@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "^2.0.0",
+        "smarty/smarty": "~3.1.27"
+    },
+    "autoload": {
+        "psr-4": { "yiiplus\\fis\\smarty\\": ""}
+    }
+}
