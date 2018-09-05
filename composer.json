@@ -25,5 +25,11 @@
     },
     "autoload": {
         "psr-4": { "yiiplus\\fis\\smarty\\": ""}
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "http://packagist.yiiplus.com"
+        }
     }
 }
