@@ -16,7 +16,7 @@ use yii\helpers\ArrayHelper;
 /**
  * FisViewRenderer allows you to use Fis3 Smarty templates in views.
  *
- * @author 陈红斌 <87003637@qq.com>
+ * @author 陈红斌 <hongbin.chen@aliyun.com>
  * @since 1.0
  */
 class ViewRenderer extends BaseViewRenderer
